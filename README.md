@@ -37,7 +37,6 @@ For example:
 
 This will generate 10 Ethereum accounts and save the data to a file named `accounts.csv`.
 
-To import the generated CSV file into Google Sheets, follow the instructions provided in the previous answer.
 
 ## Important Note
 
